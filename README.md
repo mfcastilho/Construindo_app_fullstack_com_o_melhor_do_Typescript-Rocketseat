@@ -1,0 +1,1 @@
+# Construindo_app_fullstack_com_o_melhor_do_Typescript-Rocketseat
